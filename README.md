@@ -1,1 +1,1 @@
-# Mafiatracker
+# Dummy project
